@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "01-quickstart/quickstart"
+		},
+		{
+			"path": "02-rest-service/rest-service"
 		}
 	],
 	"settings": {
